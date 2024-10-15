@@ -1,0 +1,4 @@
+contracts:
+  - symbol: "CBA"
+    exchange: "ASX"
+    strike_interval: 20
